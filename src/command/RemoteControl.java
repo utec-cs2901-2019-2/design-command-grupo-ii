@@ -1,7 +1,6 @@
 package command;
 
 public class RemoteControl {
-<<<<<<< HEAD
     Command[] onCommands;
     Command[] offCommands;
 
@@ -39,7 +38,5 @@ public class RemoteControl {
         return stringBuff.toString();
     }
 
-=======
->>>>>>> 2cb91900c03633838c34c9b9a96ef1316dbabf3b
 
 }
