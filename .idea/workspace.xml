@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f63d1812-8c15-46ae-9f69-c78b13bb4a70" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/GarageDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/GarageDoorCloseCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/GarageDoorOpenCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/LightOffComand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_command/command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_command/command/Command.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_command/command/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_command/command/Light.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_command/command/LightOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_command/command/LightOnCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_command/command/RemoteControlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_command/command/RemoteControlTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design_command/command/SimpleRemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_command/command/SimpleRemoteControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/LightOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/command/GarageDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/GarageDoor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/command/class_diagram.uml" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/class_diagram.uml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -266,7 +251,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557505990914</updated>
       <workItem from="1557505992709" duration="378000" />
-      <workItem from="1569431469416" duration="2268000" />
+      <workItem from="1569431469416" duration="3177000" />
     </task>
     <servers />
   </component>
