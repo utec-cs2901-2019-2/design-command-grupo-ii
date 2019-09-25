@@ -1,18 +1,18 @@
 package command;
 
-public class Light {
+public class Fan {
     private boolean isOn = false;
-    Light(String place){}
+    Fan(String place){}
 
 
     public void  on(){
         isOn = true;
-        System.out.println("Light is "+isOn);
+        System.out.println("Fan is "+isOn);
     }
 
     public void off(){
         isOn = false;
-        System.out.println("Light is "+isOn);
+        System.out.println("Fan is "+isOn);
     }
 
 }
