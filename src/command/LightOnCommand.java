@@ -11,4 +11,5 @@ public class LightOnCommand implements Command {
     public void execute() {
         light.on();
     }
+
 }
